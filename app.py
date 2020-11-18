@@ -20,7 +20,7 @@ def scale(payload):
 
 @app.route("/")
 def home():
-    html = "<h3>Sklearn Prediction Home new commit</h3>"
+    html = "<h3>Sklearn Prediction from Pipeline</h3>"
     return html.format(format)
 
 # TO DO:  Log out the prediction value
