@@ -4,8 +4,8 @@ This project deploy ML Flask App into Azure Cloud as Web Application.The main pu
 ## Project Plan
 Links below describes plans for this project
 
-* https://trello.com/b/xIu9XW38/udacity-project-board
-* https://docs.google.com/spreadsheets/d/1VxapU-LSE90nXnbve-oziRPMgGCONbyIlppw4FnV5Sw/edit#gid=1348135932
+* https://trello.com/b/xIu9XW38
+* https://docs.google.com/spreadsheets/d/1VxapU-LSE90nXnbve-oziRPMgGCONbyIlppw4FnV5Sw/edit?usp=sharing
 
 In the end, architecture of deployed project will follow the diagram below:
 ![Alt text](/screenshots/cd-diagram.png?raw=true "Title")
