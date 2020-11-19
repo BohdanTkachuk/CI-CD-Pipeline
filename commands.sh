@@ -19,3 +19,6 @@ make all
 
 #deploy web application
 az webapp up -n <your-appservice>
+
+#run locust tests withou web UI
+locust --headless -u 1000 -r 100 --host <webAppName> --run-time 30s
