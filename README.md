@@ -93,6 +93,7 @@ In the end, architecture of deployed project will follow the diagram below:
 This project demonstrates basic functionality and provide only a simple insights of CI/CD pipeline. There is a huge field for improvment. First of all, it's great to have a good test coverage and test code with each commit using GitHub Action or during CD job building. Other approach of upgrading project is developing user friendly interface
 
 ## Demo 
+[![](http://img.youtube.com/vi/3R7AcYtJ8cw/0.jpg)](http://www.youtube.com/watch?v=3R7AcYtJ8cw "test")
 https://www.youtube.com/watch?v=3R7AcYtJ8cw&feature=youtu.be
 
 
