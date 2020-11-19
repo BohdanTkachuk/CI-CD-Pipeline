@@ -64,7 +64,7 @@ In the end, architecture of deployed project will follow the diagram below:
 9. Insert into `make_predict_azure_app.sh` your web app name
 10. Run `./make_predict_azure_app.sh`
 ![Alt text](/screenshots/makePredict.png?raw=true "Title")
-11. Perfome load testing using command `locust --headless -u 1000 -r 100 --host <webAppName>  --run-time 1m`. 
+11. Perfom load testing using command `locust --headless -u 1000 -r 100 --host <webAppName> --run-time 30s`
 ![Alt text](/screenshots/scrLocustStart.png?raw=true "Title")
 12. Ensure, that all tests are passed
 ![Alt text](/screenshots/scrLocustDone.png?raw=true "Title")
